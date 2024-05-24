@@ -1,0 +1,40 @@
+{
+  "EYESHADOW_PALETTES": [
+    {
+      "id": "1",
+      "thumbnail": "https://www.acebeaute.com/cdn/shop/products/Oceanic-1_cbd1997d-bc67-4899-9509-5478ad82abae.png?v=1676474207",
+      "stars": "⭐⭐⭐⭐⭐",
+      "views": "519 REVIEWS",
+      "title": "OCEANIC PALETTE",
+      "price": "Rs.499",
+      "btn":"ADD TO BAG"
+    },
+    {
+      "id": "2",
+      "thumbnail": "https://www.acebeaute.com/cdn/shop/products/Flair-1_4bda2aeb-3e47-414e-9be9-0778dbca365e.png?v=1676474171",
+      "stars": "⭐⭐⭐⭐⭐",
+      "views": "412 REVIEWS",
+      "title": "FLAIR PALETTE",
+      "price": "Rs.299",
+      "btn": "ADD TO BAG"
+    },
+    {
+      "id": "3",
+      "thumbnail": "https://www.acebeaute.com/cdn/shop/products/Quintessential-1_84dc9c89-125c-495c-b9ec-70f3d1874462.png?v=1676474378",
+      "stars": "⭐⭐⭐⭐⭐",
+      "views": "665 REVIEWS",
+      "title": "QUINTESSENTIAL PALETTE",
+      "price": "Rs.99",
+      "btn": "ADD TO BAG"
+    },
+    {
+      "id": "4",
+      "thumbnail": "https://www.acebeaute.com/cdn/shop/products/TropicalVibes-1_1.png?v=1677252567",
+      "stars": "⭐⭐⭐⭐⭐",
+      "views": "10K REVIEWS",
+      "title": "TROPICAL VIBES PALETTE",
+      "price": "Rs.49",
+      "btn": "ADD TO BAG"
+    }
+  ]
+}

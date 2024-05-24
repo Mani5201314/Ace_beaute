@@ -1,0 +1,22 @@
+.bg{
+    background-image: url(/public/img/AceBeaute_bg2.webp);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#center{
+    /* display: flex; */
+    text-align: center;
+    padding: 20%;
+    justify-content: center;
+}
+#slide1_text{
+    font-size: 16px;
+    padding-top: 10px;
+    padding-left: 20%;
+    font-weight: 600;
+    width: 78%;
+}
+#btn-slide1{
+    margin-top: 25px;
+    padding: 10px 15px;
+}

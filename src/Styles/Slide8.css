@@ -1,0 +1,34 @@
+#bg-black{
+    background-color: black;
+    height: 280px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    color: white;
+}
+#icon{
+    display: flex;
+    justify-content: space-evenly;
+}
+#email{
+    padding: 10px 30px 10px 20px;
+    margin-right: 20px;    
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+#btn{
+    background-color: #f32a7d;
+    padding: 10px;
+    border: none;
+    font-weight:900;
+}
+#a{
+    color: white;
+    text-decoration: none;
+}
+#a:hover{
+    color: red;
+}

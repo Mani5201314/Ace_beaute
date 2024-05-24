@@ -1,0 +1,26 @@
+.images_logic{
+    display:flex; 
+    /* flex-wrap: wrap;       */
+    justify-content: space-around;
+    margin-top: 10px; 
+    text-align: center;
+   }
+
+
+.thumb img{
+    height: 300px;
+    width:300px;
+    border-radius: 20px;
+}
+#btn-second{
+ font-weight: 900;  
+ font-size: 19px; 
+ padding: 8px 10px;
+}
+#btn-second1{
+    margin-top: 30px;
+   margin-left: 46%;
+    font-weight: 900;  
+ font-size: 19px; 
+ padding: 10px 15px;
+}

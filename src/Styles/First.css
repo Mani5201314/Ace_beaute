@@ -1,0 +1,12 @@
+.First{
+    text-align: center;
+}
+#first_head{
+    font-size: 35px;
+    font-weight: 800;
+}
+#first_head2{
+    padding-top: 10px;
+    font-size: 16px;
+    font-weight: 500;
+}
